@@ -1,14 +1,14 @@
 var bamfordArrs = [
-    "/gldt/images/Bamford1.png",
-    "/gldt/images/Bamford2.png",
-    "/gldt/images/Bamford3.png",
-    "/gldt/images/Bamford4.png",
-    "/gldt/images/Bamford5.png",
-    "/gldt/images/Bamford6.png",
-    "/gldt/images/Bamford7.png",
-    "/gldt/images/Bamford8.png",
-    "/gldt/images/Bamford9.png",
-    "/gldt/images/Bamford10.png"
+    "/images/Bamford1.png",
+    "/images/Bamford2.png",
+    "/images/Bamford3.png",
+    "/images/Bamford4.png",
+    "/images/Bamford5.png",
+    "/images/Bamford6.png",
+    "/images/Bamford7.png",
+    "/images/Bamford8.png",
+    "/images/Bamford9.png",
+    "/images/Bamford10.png"
 ]
 
 
